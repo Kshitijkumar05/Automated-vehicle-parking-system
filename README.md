@@ -1,1 +1,2 @@
 # Automated-vehicle-parking-system
+This project is to automate the functioning of parking system.It was aimed to provide a fully automated system that was capable of checking in and out of vehicles entering and exiting the designated parking lot, and recording relevant information about them. Revenue calculation and data entry is automated to the largest possible extent. Only minimum intervention from the manual user is required, with a possibility of eliminating it altogether with further advancement in the technology encompassed by the project, and supporting hardware.
